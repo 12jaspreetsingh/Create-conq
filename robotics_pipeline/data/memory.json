@@ -1,0 +1,58 @@
+[
+    {
+        "task_id": "task_b480e75c",
+        "actions": [
+            {
+                "action_name": "grasping",
+                "confidence": 0.97
+            },
+            {
+                "action_name": "releasing",
+                "confidence": 0.98
+            }
+        ],
+        "steps": [
+            {
+                "step_description": "Executing grasping maneuver",
+                "start_time": 0.0,
+                "end_time": 2.5
+            },
+            {
+                "step_description": "Executing releasing maneuver",
+                "start_time": 2.5,
+                "end_time": 5.0
+            }
+        ],
+        "failures": [],
+        "intent": "The robot intends to perform a grasping operation to accomplish the task.",
+        "timestamp": "2026-04-18T19:09:19.236943"
+    },
+    {
+        "task_id": "task_6d963515",
+        "actions": [
+            {
+                "action_name": "grasping",
+                "confidence": 0.76
+            },
+            {
+                "action_name": "releasing",
+                "confidence": 0.76
+            }
+        ],
+        "steps": [
+            {
+                "step_description": "Executing grasping maneuver",
+                "start_time": 0.0,
+                "end_time": 2.5
+            },
+            {
+                "step_description": "Executing releasing maneuver",
+                "start_time": 2.5,
+                "end_time": 5.0
+            }
+        ],
+        "failures": [],
+        "intent": "The robot intends to perform a grasping operation to accomplish the task.",
+        "timestamp": "2026-04-18T19:09:19.238025"
+    }
+]
